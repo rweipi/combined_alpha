@@ -2,7 +2,7 @@
 Download all Combined Alpha Data points in bulk for Eikon, as well as CCR and Value Momentum.
 
 # Dependencies
--![alt tag] https://github.com/hilkoc/vbaDeveloper
+- https://github.com/hilkoc/vbaDeveloper
 
 # How does it work?
 - Create a folder called comb_alpha
