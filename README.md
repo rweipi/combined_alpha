@@ -1,2 +1,2 @@
 # combined_alpha
-download combined alpha in bulk for eikon
+Download  all Combined Alpha Data point in bulk for Eikon as well as CCR and Value Momentum.
